@@ -1,0 +1,17 @@
+
+
+.cart-container ul{
+    display: flex;
+    padding: 0px;
+    list-style: none;
+}
+
+
+.cart-container ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0;
+    list-style: none;
+}
